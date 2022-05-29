@@ -1,0 +1,71 @@
+C:\Users\USER\IdeaProjects\Recursive\.idea	Folder
+C:\Users\USER\IdeaProjects\Recursive\.idea\.gitignore	File
+C:\Users\USER\IdeaProjects\Recursive\.idea\compiler.xml	File
+C:\Users\USER\IdeaProjects\Recursive\.idea\jarRepositories.xml	File
+C:\Users\USER\IdeaProjects\Recursive\.idea\misc.xml	File
+C:\Users\USER\IdeaProjects\Recursive\.idea\uiDesigner.xml	File
+C:\Users\USER\IdeaProjects\Recursive\.idea\vcs.xml	File
+C:\Users\USER\IdeaProjects\Recursive\.idea\workspace.xml	File
+C:\Users\USER\IdeaProjects\Recursive\.mvn	Folder
+C:\Users\USER\IdeaProjects\Recursive\.mvn\.gitignore	File
+C:\Users\USER\IdeaProjects\Recursive\.mvn\wrapper	Folder
+C:\Users\USER\IdeaProjects\Recursive\.mvn\wrapper\maven-wrapper.jar	File
+C:\Users\USER\IdeaProjects\Recursive\.mvn\wrapper\maven-wrapper.properties	File
+C:\Users\USER\IdeaProjects\Recursive\docker-compose.yaml	File
+C:\Users\USER\IdeaProjects\Recursive\fileStructure.txt	File
+C:\Users\USER\IdeaProjects\Recursive\pom.xml	File
+C:\Users\USER\IdeaProjects\Recursive\requirement	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\image	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\image\image1.JPG	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\image\image2.JPG	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\image\image3.png	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\Works	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\Works\Accountant	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\Works\Accountant\Accounting.xls	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\Works\Accountant\AnnualReport.xls	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Document\Works\Letter.doc	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Program Files	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Program Files\Mysql	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Program Files\Mysql\Mysql.com	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Program Files\Mysql\Mysql.exe	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Program Files\Skype	Folder
+C:\Users\USER\IdeaProjects\Recursive\requirement\Program Files\Skype\Readme.txt	File
+C:\Users\USER\IdeaProjects\Recursive\requirement\Program Files\Skype\Skype.exe	File
+C:\Users\USER\IdeaProjects\Recursive\setUp.html	File
+C:\Users\USER\IdeaProjects\Recursive\src	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\main	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\main\java	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\controller	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\Main.java	File
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\module	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\module\DBFile.java	File
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\Server.java	File
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\service	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\service\DBGet.java	File
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\service\DBSql.java	File
+C:\Users\USER\IdeaProjects\Recursive\src\main\java\RecursiveFileStructure\service\SmallHttpHandler.java	File
+C:\Users\USER\IdeaProjects\Recursive\src\main\resources	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\test	Folder
+C:\Users\USER\IdeaProjects\Recursive\src\test\java	Folder
+C:\Users\USER\IdeaProjects\Recursive\target	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\classes	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\Main.class	File
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\module	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\module\DBFile.class	File
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\Server.class	File
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\service	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\service\DBGet.class	File
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\service\DBSql.class	File
+C:\Users\USER\IdeaProjects\Recursive\target\classes\RecursiveFileStructure\service\SmallHttpHandler.class	File
+C:\Users\USER\IdeaProjects\Recursive\target\generated-sources	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\generated-sources\annotations	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\maven-status	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\maven-status\maven-compiler-plugin	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\maven-status\maven-compiler-plugin\compile	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\maven-status\maven-compiler-plugin\compile\default-compile	Folder
+C:\Users\USER\IdeaProjects\Recursive\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst	File
+C:\Users\USER\IdeaProjects\Recursive\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst	File
+C:\Users\USER\IdeaProjects\Recursive\test.html	File

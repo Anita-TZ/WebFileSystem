@@ -1,0 +1,6 @@
+RecursiveFileStructure\Main.class
+RecursiveFileStructure\module\DBFile.class
+RecursiveFileStructure\service\DBGet.class
+RecursiveFileStructure\service\DBSql.class
+RecursiveFileStructure\service\SmallHttpHandler.class
+RecursiveFileStructure\Server.class
