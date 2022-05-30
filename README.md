@@ -56,7 +56,7 @@ docker-compose -f docker-compose.yaml down
 ```
 * Clear memory space
  ``` docker
-docker system prune
+docker system prune -f
 ```
 
 ## Tech in the FileSystemSearch
