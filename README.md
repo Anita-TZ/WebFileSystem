@@ -8,7 +8,6 @@ Feel free to play with this.
 ## MUST NEED BEFORE USED
 - [x] Docker
 - [x] Java 17
-- [x] JavaFx
 - [x] maven
 
 ## How to use-By command line
@@ -62,7 +61,7 @@ docker system prune
 
 ## Tech in the FileSystemSearch
 * Java 17
-* JavaFX ( for GUI )
 * Maven 
 * Docker 
 * MySQL 5.7
+* httpserver
