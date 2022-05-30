@@ -1,8 +1,7 @@
 package RecursiveFileStructure;
 
-import RecursiveFileStructure.service.SmallHttpHandler;
+import RecursiveFileStructure.view.SmallHttpHandler;
 import com.sun.net.httpserver.HttpServer;
-
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.util.concurrent.Executors;
@@ -10,7 +9,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 public class Server {
 
-    public Server(){
+    public Server() {
         startHTTPServer();
     }
 
@@ -29,16 +28,7 @@ public class Server {
             e.printStackTrace();
         }
 
-//        assert server != null;
-//        server.createContext("/search", new SmallHttpHandler());
-//        ThreadPoolExecutor threadPoolExecutor = (ThreadPoolExecutor) Executors.newFixedThreadPool(10);
-//        server.setExecutor(threadPoolExecutor);
-//        server.start();
-        //TODO deal with connection close
     }
 }
 
-//.info(" Server started on port 8888");
-//對應的URL , 根據 相對應的動作
-//file -帶參數
 

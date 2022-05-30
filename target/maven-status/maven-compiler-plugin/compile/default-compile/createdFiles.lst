@@ -1,6 +1,7 @@
 RecursiveFileStructure\Main.class
 RecursiveFileStructure\module\DBFile.class
-RecursiveFileStructure\service\DBGet.class
-RecursiveFileStructure\service\DBSql.class
-RecursiveFileStructure\service\SmallHttpHandler.class
 RecursiveFileStructure\Server.class
+RecursiveFileStructure\view\FileManagement.class
+RecursiveFileStructure\view\SmallHttpHandler.class
+RecursiveFileStructure\view\DBSql.class
+RecursiveFileStructure\view\TemplateGenerator.class

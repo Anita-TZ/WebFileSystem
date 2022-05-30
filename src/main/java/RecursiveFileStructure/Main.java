@@ -1,10 +1,8 @@
 package RecursiveFileStructure;
 
 
-import RecursiveFileStructure.service.DBGet;
-import RecursiveFileStructure.service.DBSql;
+import RecursiveFileStructure.view.FileManagement;
 
-import java.io.IOException;
 import java.nio.file.Paths;
 
 public class Main {
@@ -12,21 +10,11 @@ public class Main {
 
         String filePath = Paths.get("").toAbsolutePath().toString();
         //Get the file system data
-        DBGet first = new DBGet(filePath);
+        FileManagement first = new FileManagement(filePath);
         //Create a text file with file system
         first.createFileTxt();
-
-        DBSql insert = new DBSql();
-        //Read the data from txt file
-        insert.getTxtData();
-        //Insert data into database
-        insert.OpenSQL();
-
-
-        Server web = new Server();
-
-
+        first.getTxtData();
+        new Server();
     }
-
 
 }
