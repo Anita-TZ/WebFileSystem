@@ -1,5 +1,5 @@
 # WebFileSystem
-This is a file search web(version). 
+This is a file search system in web. 
 
 By typing the name of file or the folder, it could list all the filee or foldere path which contains the indicated word in the name.
 
@@ -56,7 +56,7 @@ docker-compose -f docker-compose.yaml down
 ```
 * Clear memory space
  ``` docker
-docker system prune
+docker system prune -f
 ```
 
 ## Tech in the FileSystemSearch
