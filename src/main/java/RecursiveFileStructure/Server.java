@@ -17,7 +17,6 @@ public class Server {
 
         HttpServer server = null;
         try {
-            //0 is used for back logging.
             server = HttpServer.create(new InetSocketAddress("localhost", 8888), 0);
             server.createContext("/search", new SmallHttpHandler());
             ThreadPoolExecutor threadPoolExecutor = (ThreadPoolExecutor) Executors.newFixedThreadPool(5);
